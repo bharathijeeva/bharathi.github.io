@@ -17,7 +17,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "bharathi_cv.pdf",title: "CV", icon: home}
+  - {file: "/bharathi_cv.pdf",title: "CV", icon: home}
   - {title: "Blog", file:"/blog.md"}
  
 
