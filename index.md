@@ -2,7 +2,6 @@
 layout: page
 title: ""
 ---
-About
 
 I am Bharathi Kannan, a Ph.D. student in the department of physics at IISER Pune advised by M.S Santhanam.
 
