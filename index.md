@@ -7,6 +7,7 @@ I am Bharathi Kannan, a Ph.D. student in the department of physics at IISER Pune
 
 
 ---
+layout: page
 title: "Research Interest:"
 ---
 
