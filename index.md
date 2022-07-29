@@ -5,7 +5,11 @@ title: ""
 
 I am Bharathi Kannan, a Ph.D. student in the department of physics at IISER Pune advised by M.S Santhanam.
 
-Research Interest:
+
+---
+title: "Research Interest:"
+---
+
 
 I work on the interplay between quantum physics and computer science (information theory, machine learning, complexity theory). Some problems I think about:
 
